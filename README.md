@@ -2,9 +2,8 @@
 
 Publishing source for my blog.
 
-Using [minima](https://github.com/jekyll/minima) to create.
-
-*** 
-**Reference**
-[Github pages docs](https://docs.github.com/en/pages)
-[Jekyll docs](https://jekyllrb.com/docs/)
+Create with [minima](https://github.com/jekyll/minima) theme.
+***   
+**Reference**  
+[Github pages docs](https://docs.github.com/en/pages)  
+[Jekyll docs](https://jekyllrb.com/docs/)  
