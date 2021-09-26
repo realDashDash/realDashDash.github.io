@@ -1,7 +1,7 @@
 ---
-layout = post
-title = Using Git to Commit Files to Github
-date = 2021-09-26 15:47:23 +0800
+layout: post
+title:  "Commit to Github with Git "
+date:   2021-09-26 15:52:00 +0800
 categories: git
 ---
 
